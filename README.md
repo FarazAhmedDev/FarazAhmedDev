@@ -29,8 +29,8 @@ QA Automation Engineer focused on end-to-end mobile testing with Appium, TestNG,
 
 ## How to Reach Me
 
-- ✉️ `79791078+FarazAhmedDev@users.noreply.github.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/faraz-ahmed-qa/) *(update with your active profile link if different)*
+- ✉️ `Fraxtariq1@gmail.com`
+- 💼 [LinkedIn]((https://www.linkedin.com/in/fraxzz/))
 - 🔗 Drop an issue or PR on any repo — always happy to review automation ideas.
 
 ---
